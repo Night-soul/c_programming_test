@@ -1,5 +1,3 @@
-cd
-cd c_programming_test/
 cd make_build
 make
 cd ..
