@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/pointers.ex1.dir/pointers/ex3.c.o  -o pointers.ex1 

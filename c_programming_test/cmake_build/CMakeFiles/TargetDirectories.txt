@@ -1,0 +1,5 @@
+/home/chenjiaxin/c_programming_test/cmake_build/CMakeFiles/pointers.ex1.dir
+/home/chenjiaxin/c_programming_test/cmake_build/CMakeFiles/edit_cache.dir
+/home/chenjiaxin/c_programming_test/cmake_build/CMakeFiles/arrays.ex1.dir
+/home/chenjiaxin/c_programming_test/cmake_build/CMakeFiles/rebuild_cache.dir
+/home/chenjiaxin/c_programming_test/cmake_build/CMakeFiles/functions.ex1.dir

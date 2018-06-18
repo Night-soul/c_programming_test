@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/arrays.ex1.dir/arrays/ex1.c.o  -o arrays.ex1 

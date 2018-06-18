@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/functions.ex1.dir/functions/ex2.c.o  -o functions.ex1 
