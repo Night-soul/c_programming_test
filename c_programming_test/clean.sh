@@ -1,3 +1,3 @@
 rm -rf cmake_build
-cd make-build
+cd make_build
 make clean
